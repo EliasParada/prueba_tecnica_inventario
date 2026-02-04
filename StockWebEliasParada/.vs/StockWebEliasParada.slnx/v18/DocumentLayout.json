@@ -1,0 +1,727 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\tipocategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\tipocategoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Inventario/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\inventario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\wwwroot\\js\\electrodomesticos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\wwwroot\\js\\electrodomesticos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\wwwroot\\js\\inventario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\wwwroot\\js\\inventario.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\electrodomesticos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\electrodomesticos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\viewmodels\\inventarioupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\viewmodels\\inventarioupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\electrodomesticoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\electrodomesticoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\sucursales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\sucursales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\tipocategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\tipocategorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\viewmodels\\electrodomesticovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\viewmodels\\electrodomesticovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\entities\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\entities\\electrodomestico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\repositories\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\repositories\\sucursalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Inventario/True/SqlTable/dbo.TipoCategorias.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\entities\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\entities\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\entities\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\entities\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\repositories\\tipocategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\repositories\\tipocategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\repositories\\electrodomesticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\repositories\\electrodomesticorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\viewmodels\\inventariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\viewmodels\\inventariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|c:\\users\\pasante\\source\\repos\\prueba_tecnica_inventario\\stockwebeliasparada\\stockwebeliasparada\\models\\viewmodels\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9103112-D2BF-40FF-B41C-3AD57F9FD761}|StockWebEliasParada\\StockWebEliasParada.csproj|solutionrelative:stockwebeliasparada\\models\\viewmodels\\usuariovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Program.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Program.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Program.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:49:50.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.AspNetUsers [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Inventario/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-04T22:53:36.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\TipoCategorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\TipoCategorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\TipoCategorias\\Index.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\TipoCategorias\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:03:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Sucursales\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Sucursales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Sucursales\\Index.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Sucursales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:04:01.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:17:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:56:18.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoCategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\TipoCategoriasController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\TipoCategoriasController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\TipoCategoriasController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\TipoCategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:54:25.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260204225047_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Migrations\\20260204225047_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T22:50:47.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "electrodomesticos.js",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\wwwroot\\js\\electrodomesticos.js",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\wwwroot\\js\\electrodomesticos.js",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\wwwroot\\js\\electrodomesticos.js",
+              "RelativeToolTip": "StockWebEliasParada\\wwwroot\\js\\electrodomesticos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T22:01:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:54:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Inventario\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Inventario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Inventario\\Index.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Inventario\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T22:33:08.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inventario.js",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\wwwroot\\js\\inventario.js",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\wwwroot\\js\\inventario.js",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\wwwroot\\js\\inventario.js",
+              "RelativeToolTip": "StockWebEliasParada\\wwwroot\\js\\inventario.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T22:40:03.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Electrodomesticos\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Electrodomesticos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Electrodomesticos\\Index.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Electrodomesticos\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:04:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:54:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventarioUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\InventarioUpdateVM.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\ViewModels\\InventarioUpdateVM.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\InventarioUpdateVM.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\ViewModels\\InventarioUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T22:31:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectrodomesticosController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\ElectrodomesticosController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\ElectrodomesticosController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\ElectrodomesticosController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\ElectrodomesticosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:54:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Electrodomestico.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\Electrodomestico.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\Entities\\Electrodomestico.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\Electrodomestico.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\Entities\\Electrodomestico.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElectrodomesticoVM.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\ElectrodomesticoVM.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\ViewModels\\ElectrodomesticoVM.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\ElectrodomesticoVM.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\ViewModels\\ElectrodomesticoVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:45.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:26:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:01.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SucursalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\SucursalesController.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Controllers\\SucursalesController.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Controllers\\SucursalesController.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Controllers\\SucursalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:54:44.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:33.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:30:13.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SucursalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\SucursalRepository.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Repositories\\SucursalRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\SucursalRepository.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Repositories\\SucursalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:40:52.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:31:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:31:55.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:29:49.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\Repository.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:40:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StockWebEliasParada\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:00:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\Sucursal.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\Entities\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\Sucursal.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\Entities\\Sucursal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:27.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dbo.TipoCategorias [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Inventario/True/SqlTable/dbo.TipoCategorias.sql",
+              "ToolTip": "dbo.TipoCategorias [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-02-04T21:13:20.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TipoCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\TipoCategoria.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\Entities\\TipoCategoria.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\Entities\\TipoCategoria.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\Entities\\TipoCategoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:22.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TipoCategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\TipoCategoriaRepository.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Repositories\\TipoCategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\TipoCategoriaRepository.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Repositories\\TipoCategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:41:01.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:43:00.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ElectrodomesticoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\ElectrodomesticoRepository.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Repositories\\ElectrodomesticoRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\ElectrodomesticoRepository.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Repositories\\ElectrodomesticoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:40:44.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\appsettings.json",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\appsettings.json",
+              "RelativeToolTip": "StockWebEliasParada\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T19:52:31.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Services\\InventarioService.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Services\\InventarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Services\\InventarioService.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Services\\InventarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:56:51.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:56:57.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InventarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\InventarioVM.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\ViewModels\\InventarioVM.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\InventarioVM.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\ViewModels\\InventarioVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:49.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:55:55.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:40:25.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioVM.cs",
+              "DocumentMoniker": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\UsuarioVM.cs",
+              "RelativeDocumentMoniker": "StockWebEliasParada\\Models\\ViewModels\\UsuarioVM.cs",
+              "ToolTip": "C:\\Users\\Pasante\\source\\repos\\prueba_tecnica_inventario\\StockWebEliasParada\\StockWebEliasParada\\Models\\ViewModels\\UsuarioVM.cs",
+              "RelativeToolTip": "StockWebEliasParada\\Models\\ViewModels\\UsuarioVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T19:56:04.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

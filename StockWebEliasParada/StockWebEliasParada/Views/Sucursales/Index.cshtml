@@ -1,0 +1,50 @@
+﻿@using StockWebEliasParada.Models.Entities
+@model IEnumerable<Sucursal>
+
+<div class="container mt-4">
+    <h3>Sucursales</h3>
+
+    <div class="row g-2 mb-3">
+        <div class="col">
+            <input id="txtNombre" class="form-control" placeholder="Nombre" />
+        </div>
+        <div class="col">
+            <input id="txtDireccion" class="form-control" placeholder="Dirección" />
+        </div>
+        <div class="col">
+            <input id="txtTelefono" class="form-control" placeholder="Teléfono" />
+        </div>
+        <div class="col-auto">
+            <button id="btnAdd" class="btn btn-primary">Agregar</button>
+        </div>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Dirección</th>
+                <th>Teléfono</th>
+                <th>Activo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr data-id="@s.Id">
+                    <td>@s.NombreSucursal</td>
+                    <td>@s.Direccion</td>
+                    <td>@s.Telefono</td>
+                    <td>
+                        <input type="checkbox" class="toggle"
+                               @(s.HabilitarSucursal ? "checked" : "") />
+                    </td>
+                    <td>
+                        <button class="btn btn-danger btn-sm btnDelete">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

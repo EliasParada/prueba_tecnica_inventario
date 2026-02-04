@@ -1,0 +1,40 @@
+﻿@using StockWebEliasParada.Models.Entities
+@model IEnumerable<TipoCategoria>
+
+<div class="container mt-4">
+    <h3>Tipos de Categoría</h3>
+
+    <div class="row g-2 mb-3">
+        <div class="col">
+            <input id="txtNombre" class="form-control" placeholder="Nombre" />
+        </div>
+        <div class="col-auto">
+            <button id="btnAdd" class="btn btn-primary">Agregar</button>
+        </div>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Activo</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var t in Model)
+            {
+                <tr data-id="@t.Id">
+                    <td>@t.Nombre</td>
+                    <td>
+                        <input type="checkbox" class="toggle"
+                               @(t.HabilitarTipo ? "checked" : "") />
+                    </td>
+                    <td>
+                        <button class="btn btn-danger btn-sm btnDelete">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

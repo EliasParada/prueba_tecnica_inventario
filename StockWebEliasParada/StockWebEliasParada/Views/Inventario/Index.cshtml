@@ -1,0 +1,47 @@
+﻿@model IEnumerable<StockWebEliasParada.Models.Entities.Electrodomestico>
+
+@{
+    ViewData["Title"] = "Inventario";
+}
+
+<h2 class="mb-4">Inventario</h2>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Nombre del electrodoméstico</th>
+            <th>Tipo de categoría</th>
+            <th class="text-center">Cantidad de Inventario</th>
+            <th>Sucursal</th>
+            <th class="text-center">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr id="row-@item.Id">
+                <td>@item.NombreElectrodomestico</td>
+                <td>@item.TipoCategoria?.Nombre</td>
+                <td>@item.Sucursal?.NombreSucursal</td>
+                <td class="text-center">
+                    <span id="stock-@item.Id">@item.CantidadInventario</span>
+                </td>
+                <td class="text-center">
+                    <button class="btn btn-success btn-sm"
+                            onclick="accionInventario(@item.Id, 'agregar')">
+                        Agregar
+                    </button>
+
+                    <button class="btn btn-danger btn-sm"
+                            onclick="accionInventario(@item.Id, 'vender')">
+                        Vender
+                    </button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script src="~/js/inventario.js"></script>
+}

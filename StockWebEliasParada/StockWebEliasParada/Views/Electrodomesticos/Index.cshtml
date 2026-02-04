@@ -1,0 +1,60 @@
+﻿@using StockWebEliasParada.Models.Entities
+@model IEnumerable<Electrodomestico>
+
+<div class="container mt-4">
+    <h3>Electrodomésticos</h3>
+
+    <div class="row g-2 mb-3">
+        <div class="col">
+            <input id="txtNombre" class="form-control" placeholder="Nombre" />
+        </div>
+        <div class="col">
+            <select id="cmbCategoria" class="form-select" asp-items="ViewBag.Categorias"></select>
+        </div>
+        <div class="col">
+            <select id="cmbSucursal" class="form-select" asp-items="ViewBag.Sucursales"></select>
+        </div>
+        <div class="col">
+            <input id="txtCantidad" type="number" class="form-control" placeholder="Cantidad" />
+        </div>
+        <div class="col-auto">
+            <button id="btnAdd" class="btn btn-success">Agregar</button>
+        </div>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Nombre</th>
+                <th>Categoría</th>
+                <th>Sucursal</th>
+                <th>Cantidad</th>
+                <th>Activo</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model)
+            {
+                <tr data-id="@e.Id">
+                    <td>@e.NombreElectrodomestico</td>
+                    <td>@e.TipoCategoria?.Nombre</td>
+                    <td>@e.Sucursal?.NombreSucursal</td>
+                    <td>@e.CantidadInventario</td>
+                    <td>
+                        <input type="checkbox" class="toggle"
+                               @(e.HabilitarProducto ? "checked" : "") />
+                    </td>
+                    <td>
+                        <button class="btn btn-danger btn-sm btnDelete">Eliminar</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="~/js/electrodomesticos.js"></script>
+}
+

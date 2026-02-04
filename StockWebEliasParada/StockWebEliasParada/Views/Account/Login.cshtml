@@ -1,0 +1,26 @@
+﻿@model LoginViewModel
+
+<div class="container mt-5" style="max-width:400px">
+    <h3 class="text-center mb-4">Iniciar Sesión</h3>
+
+    <form method="post">
+        <div class="mb-3">
+            <input asp-for="Username" class="form-control" placeholder="Usuario" />
+        </div>
+
+        <div class="mb-3">
+            <input asp-for="Password" class="form-control" placeholder="Contraseña" />
+        </div>
+
+        <div class="form-check mb-3">
+            <input asp-for="RememberMe" class="form-check-input" />
+            <label class="form-check-label">Recordarme</label>
+        </div>
+
+        <button class="btn btn-primary w-100">Entrar</button>
+
+        <div class="text-center mt-3">
+            <a asp-action="Register">Crear cuenta</a>
+        </div>
+    </form>
+</div>
