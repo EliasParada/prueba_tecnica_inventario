@@ -16,7 +16,7 @@ namespace StockWebEliasParada.Data
             {
                 var user = new ApplicationUser
                 {
-                    UserName = "admin",
+                    UserName = "user123",
                     Email = "admin@local.com",
                     Nombres = "Admin",
                     Apellidos = "Sistema"
